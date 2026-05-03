@@ -1,17 +1,17 @@
-💖 Friendship Compatibility Index (Bestie Meter)
+ Friendship Compatibility Index (Bestie Meter)
 
 A simple and fun Python GUI project that calculates compatibility between two users based on their answers to personal preference questions.
 
----
 
- 📌 Description
+
+  Description
 
 This application allows two users to answer a set of questions one by one. After collecting responses from both users, the program compares their answers and calculates a compatibility percentage.
 
 Based on the result, a message is displayed indicating how well the two users match.
 
----
- ✨ Features
+
+ Features
 
 * Two-user interactive system
 * Custom name input
@@ -20,16 +20,16 @@ Based on the result, a message is displayed indicating how well the two users ma
 * Result displayed with percentage and message
 * Simple and colorful GUI using Tkinter
 
----
 
- 🛠️ Built With
+
+  Built With
 
 * Python 3
 * Tkinter (built-in GUI library)
 
----
 
- 🚀 How to Run
+
+ How to Run
 
 1. Install Python (if not already installed)
 2. Download or clone this repository
@@ -39,36 +39,33 @@ Based on the result, a message is displayed indicating how well the two users ma
 python friendship_compatibility.py
 ```
 
----
-
- 📊 How It Works
+  How It Works
 
 * Both users answer the same 5 questions
 * Answers are compared one by one
 * Matching answers increase the score
 * Compatibility is calculated using:
 
-```
+
 Compatibility (%) = (Matching Answers / Total Questions) × 100
 ```
 
----
 
- 💡 Result Criteria
+
+  Result Criteria
 
 * **80% and above** → ❤️ Highly compatible
 * **50% to 79%** → 😊 Moderately compatible
 * **Below 50%** → 💔 Not compatible
 
----
 
- ⚠️ Limitations
+
+  Limitations
 
 * Exact answer matching only
 * No support for similar words (e.g., "coffee" ≠ "cafe")
 * Fixed set of questions
 
----
 
   Future Improvements
 
@@ -78,19 +75,19 @@ Compatibility (%) = (Matching Answers / Total Questions) × 100
 * Add animations or sound effects
 * Save previous results
 
----
 
- 📁 File Structure
+
+  File Structure
 
 ```
 friendship_compatibility.py
 README.md
 ```
 
----
 
-👩‍💻 Authors
-Marium Bint-e- Tahir
+
+ Authors
+Marium Bint-e- Tahir\n
 Maria
 
 ---
